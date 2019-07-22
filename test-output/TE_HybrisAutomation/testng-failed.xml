@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TE_HybrisAutomation]">
+  <test thread-count="5" name="ImportCockpit_Stage(failed)">
+    <parameter name="Environment" value="stage"/>
+    <classes>
+      <class name="com.te.test.ImportCockpit_SmokeTest">
+        <methods>
+          <include name="massSampleExport"/>
+          <include name="IC_Login" invocation-numbers="0"/>
+          <include name="reportSettings"/>
+          <include name="afterClass"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="reportTearDown"/>
+        </methods>
+      </class> <!-- com.te.test.ImportCockpit_SmokeTest -->
+    </classes>
+  </test> <!-- ImportCockpit_Stage(failed) -->
+</suite> <!-- Failed suite [TE_HybrisAutomation] -->

@@ -1,0 +1,6 @@
+com\te\test\ProductCockpit_RegressionTest.class
+com\te\test\ProductCockpit_SmokeTest.class
+com\te\test\ImportCockpit_RegressionTest.class
+com\te\test\Hybris_RegressionTest.class
+com\te\test\Hybris_SmokeTest.class
+com\te\test\ImportCockpit_SmokeTest.class
