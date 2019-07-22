@@ -1,1 +1,0 @@
-# BGG_SmokeTest
