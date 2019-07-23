@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BGG_Automation">
+  <test thread-count="5" name="Smoke_Test">
+    <classes>
+      <class name="com.qa.bg.testScripts.Search"/>
+    </classes>
+  </test> <!-- Smoke_Test -->
+</suite> <!-- BGG_Automation -->

@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9677" started-at="2019-07-22T10:45:31Z" finished-at="2019-07-22T10:45:41Z">
+  <suite name="BGG_Automation" duration-ms="9346" started-at="2019-07-23T11:31:44Z" finished-at="2019-07-23T11:31:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9677" started-at="2019-07-22T10:45:31Z" finished-at="2019-07-22T10:45:41Z">
+    <test name="Smoke_Test" duration-ms="9346" started-at="2019-07-23T11:31:44Z" finished-at="2019-07-23T11:31:53Z">
       <class name="com.qa.bg.testScripts.Search">
-        <test-method status="PASS" signature="SearchDestination()[pri:0, instance:com.qa.bg.testScripts.Search@6a41eaa2]" name="SearchDestination" duration-ms="9647" started-at="2019-07-22T10:45:32Z" finished-at="2019-07-22T10:45:41Z">
+        <test-method status="PASS" signature="SearchDestination()[pri:0, instance:com.qa.bg.testScripts.Search@6a41eaa2]" name="SearchDestination" duration-ms="9315" started-at="2019-07-23T11:31:44Z" finished-at="2019-07-23T11:31:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchDestination -->
       </class> <!-- com.qa.bg.testScripts.Search -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Smoke_Test -->
+  </suite> <!-- BGG_Automation -->
 </testng-results>
